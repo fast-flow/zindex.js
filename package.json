@@ -1,0 +1,27 @@
+{
+  "name": "zindex.js",
+  "version": "0.1.0",
+  "description": "To obtain the biggest zindex（dialog,tooltip,select menu need this）",
+  "main": "index.js",
+  "scripts": {
+   "test-ci": "./node_modules/jest/bin/jest.js",
+   "test": "./node_modules/jest/bin/jest.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-flow/zindex.js.git"
+  },
+  "keywords": [
+    "z-index"
+  ],
+  "author": "nimojs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fast-flow/zindex.js/issues"
+  },
+  "homepage": "https://github.com/fast-flow/zindex.js#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "jest": "^18.1.0"
+  }
+}
