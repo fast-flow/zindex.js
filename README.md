@@ -19,6 +19,7 @@ zIndex('dialog-mask') //  1053
 zIndex('dialog') //  1151
 zIndex('dialog') //  1152
 zIndex('dialog') //  1153
+// popup: select menu, input autocomple, full screen loading
 zIndex('popup') //  1251
 zIndex('popup') //  1252
 zIndex('tooltip') //  1351
